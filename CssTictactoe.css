@@ -1,0 +1,37 @@
+body {
+  width: 100%;
+}
+
+#main_container {
+	margin: 10px auto;
+	width: 800px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 25px;
+}
+
+table {
+  margin: 0px auto;
+}
+
+.box_cell {
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+ 
+}
+
+.hover {
+  background-color: #F0FFFF;
+  cursor: pointer;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
